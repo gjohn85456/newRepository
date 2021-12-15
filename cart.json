@@ -1,0 +1,20 @@
+[
+ {
+	"amount": 47200,
+	"countGoods": 2,
+	"contents": [
+	 {
+		"id_product":123,
+		"product_name": "notebook",
+		"price": 45600,
+		"quantity": 1
+	 },
+	 {
+		"id_product":123,
+		"product_name": "mouse",
+		"price": 1600,
+		"quantity": 1
+	 }
+	]
+ }
+]
